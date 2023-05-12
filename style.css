@@ -120,7 +120,7 @@ main
         max-width: 1000px;
         align-content: center;
         margin: auto;
-        margin-bottom: 20px;
+        padding-bottom: 20px;
         display: block;
         background-color: white;
         border-bottom-left-radius: 20px;    
